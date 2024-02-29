@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+} 
+
+/* [class^='col'] {
+    border: 1px solid;
+} */
+.card-text {
+    white-space: pre-wrap;
+}
